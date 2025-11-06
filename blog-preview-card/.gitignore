@@ -15,8 +15,5 @@
 .DS_Store
 .prettierignore
 
-# IDE
-.idea
-
-#AI
+# LLM
 AGENTS.md
